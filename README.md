@@ -1,7 +1,5 @@
 # Digital Logic Design App
 
-[![NPM Version][npm-image]][npm-url]
-
 ## Χαρακτηριστικά:
 
 * Γρήγορη και εύκολη πρόσβαση
