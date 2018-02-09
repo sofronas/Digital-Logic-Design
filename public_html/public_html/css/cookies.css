@@ -1,0 +1,17 @@
+.cookie-choices-info {
+z-index:999999!important;
+background-color:#333333!important;
+border-bottom: 1px solid #007abe;  
+box-shadow: 1px 2px 2px #000!important; 
+padding:3px 0px!important;}
+
+.cookie-choices-info .cookie-choices-text{
+font-size:16px !important; 
+color:#dddddd!important;}
+.cookie-choices-info .cookie-choices-button{  
+background-color: #007abe!important;
+border-radius: 1px!important;
+box-shadow: 2px 3px 2px #000!important; 
+padding:6px!important;
+text-transform: none!important;}
+<!-- Cookies end here-->
